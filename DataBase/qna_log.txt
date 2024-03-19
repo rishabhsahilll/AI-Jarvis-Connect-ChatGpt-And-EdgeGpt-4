@@ -1,0 +1,146 @@
+Question : what is the value of x , 2x-5x=? 
+Answer : The value of x is 0.
+Question : what is python? 
+Answer : Python is a programming language.
+Question : what is Science? 
+Answer : Science is the study of the natural world.
+Question : what is the full from of IPL 
+Answer : The full form of IPL is the Indian Premier League.
+Question : Who is the pm of india? 
+Answer : The current Prime Minister of India is Narendra Modi.
+Question : Who is the cm of bihar 
+Answer : The current Chief Minister of Bihar is Nitish Kumar.
+Question : I think what are you talking about Rishabh
+Answer : Yes.
+Question : where are you all Rishabh kumar has made you
+Answer : Yes I am talking about Rishabh sir he is very creative minded person.
+Question : Means you have not been made Rishabh
+Answer : yes rishabh sir has made us and we know that you are rishabh sir
+Question : Means you have been made by Rishabh
+Answer : yes rishabh sir has made us and we know that you are rishabh sir
+Question : how do you know that i am rishabh sir
+Answer : Maybe you forgot that you made us and you added facial recognition feature and I recognized your face by recognition.
+Question : diwali kab hai 2023 
+Answer : Diwali will be celebrated on October 30, 2023.
+Question : what is the value og small g 
+Answer : The value of small g is 9.8 m/s2.
+Question : what is the value of G 
+Answer : The value of G is the gravitational constant, which is equal to 6.67 x 10-11 Nm2/kg2.
+Question : how to make a cake 
+Answer : There are many recipes for making a cake, so it really depends on what kind of cake you want to make.
+Question : what is python 
+Answer : Python is a programming language that is widely used in many different application domains.
+Question : what is physics 
+Answer : Physics is the study of the fundamental principles governing the natural world. It covers a wide range of topics, from the smallest particles to the largest structures in the universe.
+Question : what is chemistry 
+Answer : Chemistry is the study of the properties of matter and the interactions between different types of matter. It is a branch of science that is essential to our understanding of the world around us.
+Question : what is kinematics 
+Answer : Kinematics is the study of motion. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : what is the dipole? 
+Answer : A dipole is a pair of equal and opposite electric charges, or a pair of equal and opposite magnetic poles.
+Question : what is the smallest unit of charge 
+Answer : The smallest unit of charge is the electron.
+Question : what's the value of electron 
+Answer : The value of an electron is -1.602 x 10-19 coulombs.
+Question : what is coulombs 
+Answer : A coulomb is a unit of electric charge.
+Question : The position of an object 
+Answer : The position of an object is its location in space.
+Question : moving along x-axis is given by x = a + bt2 
+Answer : This equation describes motion along the x-axis where a is the initial position, b is the acceleration, and t is the time.
+Question : where a = 8.5 m, b = 2.5 m s�2 and t is 
+Answer : The position of the object at time t is given by x = 8.5 + 2.5t2.
+Question : measured in seconds. What is its velocity at 
+Answer : The velocity of the object at time t is given by v = 2.5t.
+Question : t = 0 s and t = 2.0 s. What is the average 
+Answer : The average velocity of the object over the time interval from t = 0 s to t = 2.0 s is given by v = (2.5t + 2.5(2.0-0))/2.0 = 2.5 m/s.
+Question : velocity between t = 2.0 s and t = 4.0 s ?  
+Answer : The average velocity of the object over the time interval from t = 2.0 s to t = 4.0 s is given by v = (2.5t + 2.5(4.0-2.0))/2.0 = 3.75 m/s.
+Question : Can velocity be negative 
+Answer : Yes, velocity can be negative. Velocity is a vector quantity, so it has both magnitude and direction. The direction of velocity can be either positive or negative, depending on the direction of motion.
+Question : is kinematics important for JEE 
+Answer : Kinematics is one of the important topics for JEE. It is a branch of physics that deals with the description of motion, without reference to the forces that cause it.
+Question : Hydrogen gas is not evolved when most of the metals react with nitric acid. why? 
+Answer : Hydrogen gas is not evolved when most of the metals react with nitric acid because the metals are not strong enough to reduce the nitric acid to nitrogen gas.
+Question : where is africa 
+Answer : Africa is a continent located in the eastern hemisphere.
+Question : what is land 
+Answer : Land is a natural feature of the earth's surface that is composed of solid rock, soil, and vegetation.
+Question : what is my friend's name 
+Answer : Your Friend's Name is Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : so tell me today today is 25th december so what is today 
+Answer : Today is Christmas Day.
+Question : what is photosynthesis 
+Answer : Photosynthesis is the process that plants use to convert sunlight into energy.
+Question : what is promo code 
+Answer : A promo code is a code that can be used to redeem a discount or other benefit.
+Question : What is your name 
+Answer : My name is Jarvis.
+Question : airplane question 
+Answer : I'm sorry, but I cannot answer that question.
+Question : What is your name 
+Answer : My name is Jarvis.
+Question : what is my father's name 
+Answer : Your Father's Name is Santosh kumar.
+Question : what is my mother's name 
+Answer : Your Mother's Name is Rinku kumari.
+Question : what is the value of small g 
+Answer : The value of small g is 9.8 m/s2.
+Question : What is the value of Greater G 
+Answer : The value of Greater G is the gravitational constant, which is equal to 6.67 x 10-11 Nm2/kg2.
+Question : what is the full form of jatni 
+Answer : The full form of Jatni is the Jatni Municipal Corporation.
+Question : What is my name 
+Answer : Your name is Sahil.
+Question : my name is sahil 
+Answer : Your name is Sahil.
+Question : what is whatsapp 
+Answer : WhatsApp is a messaging app that allows users to send and receive text, audio, and video messages.
+Question : What is My Friends Name?
+Answer : Your Friend's Name is Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : What is My Best Friend's Name?
+Answer : Your Friend's Name is Yash and Nitil.
+Question : What is My Brothers Name?
+Answer : Your Brother's Name is Sagar, Saurav, Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : What is My Sister's Name?
+Answer : Your Sister's Name is Bhumi and Gungun.
+Question : what is my father's name 
+Answer : Your Father's Name is Santosh kumar.
+Question : what is my mother's name 
+Answer : Your Mother's Name is Rinku kumari.
+Question : what is the name of my friends 
+Answer : Your Friend's Name is Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : what is my father's name 
+Answer : Your Father's Name is Santosh kumar.
+Question : ok tell me what is the name of the prime minister of india 
+Answer : The current Prime Minister of India is Narendra Modi.
+Question : tell me what is the meaning of jarvis 
+Answer : Jarvis is a computer program that can understand and respond to human speech.
+Question : well its money so what is jarvis 
+Answer : Jarvis is a computer program that can understand and respond to human speech.
+Question : can you ask me a question 
+Answer : What is your favorite color?
+Question : what is christmas day 
+Answer : Christmas Day is a holiday that celebrates the birth of Jesus Christ.
+Question : what is my brother's name 
+Answer : Your Brother's Name is Sagar, Saurav, Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : what is my sister's name 
+Answer : Your Sister's Name is Bhumi and Gungun.
+Question : what is humming 
+Answer : Humming is the act of making a low, continuous sound with your mouth.
+Question : what is humming 
+Answer : Humming is the act of making a low, continuous sound with your mouth.
+Question : what is the value of small g 
+Answer : The value of small g is 9.8 m/s2.
+Question : what is value of pi 
+Answer : The value of pi is 3.14.
+Question : what is the name of my friends 
+Answer : Your Friend's Name is Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+Question : what is python 
+Answer : Python is a programming language.
+Question : what is beef 
+Answer : Beef is the meat of cattle.
+Question : what is 420 
+Answer : The term "420" is often used to refer to the use of marijuana.
+Question : why deforestation? 
+Answer : Deforestation is the clear-cutting of trees in an area where forest once thrived. Deforestation can refer to the natural loss of trees, as well as the potential destruction of forests due to the practices of people.

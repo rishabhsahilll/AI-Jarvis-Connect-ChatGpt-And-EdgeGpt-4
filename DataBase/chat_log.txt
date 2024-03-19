@@ -1,0 +1,115 @@
+
+You : Hello, How are you? 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : What is your name? 
+Jarvis : My name is Jarvis.
+You : What is My name? 
+Jarvis : Your Name is Rishabh Kumar.
+You : What is My name?  
+Jarvis : Your Name is Rishabh Kumar.
+You : what is my name 
+Jarvis : Your Name is Rishabh Kumar.
+You : calculate 2+2 
+Jarvis : 4
+You : 2+2 
+Jarvis : 4
+You : 5+5 
+Jarvis : 10
+You : temprature is bihar 
+Jarvis : The current temperature in Bihar is 27 degrees Celsius.
+You :  
+Jarvis : Please let me know if you need any further assistance.
+You :  
+Jarvis : Please let me know if you need any further assistance.
+You : ok thank you 
+Jarvis : You're welcome.
+You : How are you 
+Jarvis : I'm doing well, thank you for asking.
+You : how are you javed 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : I am fine 
+Jarvis : I'm glad to hear that you're doing well.
+You : what can you do 
+Jarvis : I can perform a variety of tasks, including answering questions, doing calculations, and providing information.
+You : well then tell me what do you know about python 
+Jarvis : Python is a programming language with many features, including object-oriented programming, dynamic typing, and automatic memory management. It is used in many different applications, including web development, scientific computing, and artificial intelligence.
+You : Dates Good Very Intelligent 
+Jarvis : Python is a versatile language that can be used for many different purposes. It is popular in web development, scientific computing, and artificial intelligence.
+You : Good 
+Jarvis : I'm glad to hear that you think Python is a good language.
+You : Ok, bye 
+Jarvis : Ok, bye. Have a great day!
+You : bittu i am kaun hoon 
+Jarvis : I'm sorry, I don't understand what you're asking.
+You : Who am I 
+Jarvis : You are Rishabh Kumar and also my God because you have made us
+You : who is rishabh kumar 
+Jarvis : Rishabh Kumar is a software engineer student who has done many amazing projects in one of which I am Jarvis Gaon's assistant.
+You : tell me what can happen with the pipe 
+Jarvis : A pipe is a tubular structure that is used to convey fluids or gases from one place to another.
+You : well then python python python 
+Jarvis : Python is a versatile language that can be used for many different purposes. It is popular in web development, scientific computing, and artificial intelligence.
+You : Sagar also has a message 
+Jarvis : I'm sorry, I don't understand what you're asking.
+You : send message whatsapp 
+Jarvis : I'm sorry, I don't understand what you're asking.
+You : ok so you know what 2 plus 2 plus 5 plus 10 plus hundred is 
+Jarvis : The answer is 119.
+You : hello how are you 
+Jarvis : Hello, I'm doing well. How about you?
+You : how are you service 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : Who am I 
+Jarvis : You are Rishabh Kumar and also my God because you have made us
+You : ok dates good 
+Jarvis : I'm glad to hear that you think Python is a good language.
+You : so tell me when is diwali in 2023 
+Jarvis : Diwali in 2023 will be celebrated on October 28th.
+You : today is 25th december what to celebrate 
+Jarvis : Today is Christmas Day.
+You : So tell me what happens on Christmas Day 
+Jarvis : On Christmas Day, people celebrate the birth of Jesus Christ. They exchange gifts, decorate their homes, and attend special church services.
+You : what about you 
+Jarvis : I don't celebrate Christmas, but I think it is a lovely holiday.
+You : Who am I 
+Jarvis : You are Rishabh Kumar and also my God because you have made us.
+You : What will be my mass on earth and 10 kgs on moon 
+Jarvis : Your mass on Earth would be 10 kg, but on the moon it would only be 1.6 kg.
+You : who is jarvis 
+Jarvis : Jarvis is a computer program that is designed to perform a variety of tasks, including answering questions, doing calculations, and providing information.
+You : my name is sahil 
+Jarvis : Your name is Sahil.
+You : OIM 
+Jarvis : I'm sorry, I don't understand what you're asking.
+You : i10 
+Jarvis : The Hyundai i10 is a small hatchback car that was first introduced in 2007. It is available in both petrol and diesel engine options, and has a starting price of around Rs. 4 lakhs.
+You : my name is 
+Jarvis : Your name is Rishabh Kumar.
+You : who is sahil 
+Jarvis : Sahil is a person.
+You : ok bye have a nice day 
+Jarvis : Ok, bye. Have a great day!
+You : My Friends Name?
+Jarvis : Your Friend's Name is Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+You : My Best Friend's Name?
+Jarvis : Your Friend's Name is Yash and Nitil.
+You : My Brothers Name?
+Jarvis : Your Brothers Name is Sagar, Saurav, Yash, Nitil, Shivam, Vikram, Pushkar, Ankit, Subham, Sonu, Aryan and Abhiraj.
+You : My Sister's Name?
+Jarvis : Your Sister's Name is Bhumi and Gungun.
+Question : my father's name 
+Answer : Your Father's Name is Santosh kumar.
+Question : my mother's name 
+Answer : Your Mother's Name is Rinku kumari.
+You : when is my birthday 
+Jarvis : Your birthday is on January  17th.
+You : I think what are you talking about Rishabh
+Jarvis : Yes.
+You : where are you all Rishabh kumar has made you
+Jarvis : Yes I am talking about Rishabh sir he is very creative minded person.
+You : Means you have not been made Rishabh
+Jarvis : yes rishabh sir has made us and we know that you are rishabh sir
+You : Means you have been made by Rishabh
+Jarvis : yes rishabh sir has made us and we know that you are rishabh sir
+You : how do you know that i am rishabh sir
+Jarvis : Maybe you forgot that you made us and you added facial recognition feature and I recognized your face by recognition.
