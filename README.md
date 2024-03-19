@@ -21,5 +21,5 @@ $ python Jarvis.py
 ```
 
 # Developer-Name:- [RISHABH-SAHIL](https://instagram.com/ll._rsy_.ll)
-- GitHub:- [@RishabhSahil](https://github.com/rishabhsahill)
+- GitHub:- [@RishabhSahil](https://github.com/rishabhsahilll)
 - Linkden:- [rishabhsahil](https://www.linkedin.com/in/rishabhsahil/)
